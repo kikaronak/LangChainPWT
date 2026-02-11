@@ -69,8 +69,8 @@ This repository contains the implementation of a lightweight, modified version o
 ## Usage  
 1. Clone the repository:  
   ```bash
-  git clone https://github.com/pulkundwar29/LangPWT
-  cd LangPWT
+  git clone https://github.com/kikaronak/LangChainPWT
+  cd LangChainPWT
   ```
 2. Create and activate a virtual environment:
   ```bash
