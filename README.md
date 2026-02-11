@@ -89,3 +89,5 @@ This repository contains the implementation of a lightweight, modified version o
   <img src="ex1.png" alt="example text">
    <p><strong>Figure 2: Example of Text Generated using LangPWT</p>
 </div>
+
+## Note: Model weights and logs are excluded via .gitignore.
